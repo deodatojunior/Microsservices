@@ -16,6 +16,9 @@ localhost:8001/swagger
 ### Discount Api Documentation
 localhost:8002/swagger
 
+### Discount.Grpc Api Documentation
+localhost:8003/swagger
+
 ### Pg Admin
 localhost:5050
 
@@ -25,4 +28,4 @@ password: admin1234
 ### Portainer for monitoring containers
 localhost:9000
 
-create user
+create user and done
