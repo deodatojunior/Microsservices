@@ -1,6 +1,7 @@
 # Microsservices
 
-## To Run:
+## To Run
+Enter in /src for terminal and write this code:
 ```
 docker-compose -f docker-compose.yml -f docker-compose.override.yml up -d
 ```
