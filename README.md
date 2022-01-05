@@ -25,6 +25,8 @@ localhost:5050
 user: admin@aspnetrun.com
 password: admin1234
 
+if the server is not listed, click servers with the right button, add a server, type the desired name and in the connection tab, add the host: discountdb, and in the username and password, add: admin and password: admin1234
+
 ### Portainer for monitoring containers
 localhost:9000
 
