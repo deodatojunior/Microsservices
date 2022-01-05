@@ -1,9 +1,9 @@
 # Microsservices
 
 ## To Run:
-'''
+```
 docker-compose -f docker-compose.yml -f docker-compose.override.yml up -d
-'''
+```
 
 ## Endpoints:
 ### Catalog Api Documentation:
